@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5tJ44UjdNqK" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Using Interactive Timelines in E-Learning Course Design #369</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Using_Interactive_Timelines_in_E-Learning_Course_Design_#369_ORG">
+    <organization identifier="Using_Interactive_Timelines_in_E-Learning_Course_Design_#369_ORG">
+      <title>Using Interactive Timelines in E-Learning Course Design #369</title>
+      <item identifier="Using_Interactive_Timelines_in_E-Learning_Course_Design_#369_SCO" isvisible="true" identifierref="__5tJ44UjdNqK_RES">
+        <title>Using Interactive Timelines in E-Learning Course Design #369</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5tJ44UjdNqK_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6SgFLpMkIAH_80_P_0_0_934_697_DX1486_DY1486_CX934_CY697.jpg" />
+      <file href="mobile/5fmZP4MQSp6_80_DX140_DY140_CX110_CY110.png" />
+      <file href="mobile/5Wk6olflfzE_80_P_0_0_150_313_DX760_DY760_CX144_CY299.jpg" />
+      <file href="mobile/5Wk6olflfzE_80_P_150_0_92_313_DX760_DY760_CX88_CY299.jpg" />
+      <file href="mobile/5Wk6olflfzE_80_P_238_0_109_313_DX760_DY760_CX103_CY296.jpg" />
+      <file href="mobile/5Wk6olflfzE_80_P_342_0_135_313_DX760_DY760_CX129_CY299.jpg" />
+      <file href="mobile/5Wk6olflfzE_80_P_460_0_160_313_DX760_DY760_CX152_CY297.jpg" />
+      <file href="mobile/5fmZP4MQSp6_80_DX140_DY140_CX102_CY102.png" />
+      <file href="mobile/5Wk6olflfzE_80_DX760_DY760_CX363_CY182.jpg" />
+      <file href="mobile/6SgFLpMkIAH_80_DX1486_DY1486_CX294_CY213.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6e6ZB4pS8v7.js" />
+      <file href="html5/data/js/6fhxOwy2JEu.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
